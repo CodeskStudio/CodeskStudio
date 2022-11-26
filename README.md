@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1006491186875338823/1017090536861093968/04a12f46f555b3c260d00d37e69c3e7a.png">
+  <img src="https://cdn.cosk.io/img/codesk/code_brand_show.svg">
   <br>
   <br>
   <img src="https://lanyard.cnrad.dev/api/273111910231310337">
