@@ -3,7 +3,7 @@
   <img src="https://cdn.cosk.io/img/codesk/code_brand_bubble.svg">
   <br>
   <br>
-  <img src="https://lanyard.cnrad.dev/api/273111910231310337">
+  
 </p>
 
 ### • Who am I?
@@ -63,3 +63,5 @@ Disk: **600 GB SSD (RAID10)**<br>
 <a href="https://discord.com/users/273111910231310337">
     <img src="https://img.shields.io/badge/Discord-100000?logo=discord&style=social">
 </a>
+  
+  <img src="https://lanyard.cnrad.dev/api/273111910231310337">
