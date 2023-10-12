@@ -38,6 +38,11 @@ Processor: **6 Cores**<br>
 Memory: **24 GB**<br>
 Disk: **600 GB SSD (RAID10)**<br>
 
+OS: **Windows Server 2022**<br>
+Processor: **6 Cores**<br>
+Memory: **24 GB**<br>
+Disk: **600 GB SSD (RAID10)**<br>
+
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeskStudio&theme=blue-green">
