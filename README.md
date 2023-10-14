@@ -38,10 +38,10 @@ Processor: **6 Cores**<br>
 Memory: **24 GB**<br>
 Disk: **600 GB SSD (RAID10)**<br>
 
-OS: **Windows Server 2022**<br>
-Processor: **6 Cores**<br>
+OS: **Windows Server 2019**<br>
+Processor: **8 Cores**<br>
 Memory: **24 GB**<br>
-Disk: **600 GB SSD (RAID10)**<br>
+Disk: **240 GB SSD (NAS)**<br>
 
 <br>
 <div align="center">
