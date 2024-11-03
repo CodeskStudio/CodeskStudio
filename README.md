@@ -1,68 +1,38 @@
+![👋Welcome!](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeskStudio/CodeskStudio/cab2373c9d4b70226f2c1ddabb46ce1dbcd2aaa7/logo/cosk.svg"> 
+![Profile views](https://komarev.com/ghpvc/?username=CodeskStudio&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋Welcome!
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://github.com/CodeskStudio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://www.instagram.com/codesk.studio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+
+ **<h3 align="center">I’m a versatile web developer with a strong focus on both frontend and backend technologies. My expertise spans frameworks and languages like React, Svelte, Vue, Java, and Python, and I enjoy diving into new challenges in web development. Beyond web apps, I explore game modding, create Discord bots, and fine-tune tools like VS Code, NeoVim and various OS settings for a seamless coding experience.</h3>**
+
+ **<h3 align="center">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" height="32" alt="Svelte" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" height="32" alt="Lua" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" height="32" alt="Kotlin" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Scheme-6D9B4C?logo=scheme&logoColor=white" height="32" alt="Scheme" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="32" alt="Shell" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeskStudio&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=CodeskStudio&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-### • Languages and Tools?
-<br />
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/CodeskStudio/CodeskStudio/blob/ea25e7ad4bd4674de1a3d50ab1295940d4f0e776/logo/html.png?raw=true" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/CodeskStudio/CodeskStudio/cab2373c9d4b70226f2c1ddabb46ce1dbcd2aaa7/logo/react.png" /></a>
-<a href="https://www.java.com/de/" target="_blank"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/CodeskStudio/CodeskStudio/cab2373c9d4b70226f2c1ddabb46ce1dbcd2aaa7/logo/java.svg" /></a>
-<a href="https://www.lua.org/" target="_blank"><img align="left" alt="LUA" width="26px" src="https://raw.githubusercontent.com/CodeskStudio/CodeskStudio/cab2373c9d4b70226f2c1ddabb46ce1dbcd2aaa7/logo/lua.png" /></a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeskStudio&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeskStudio&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
-<br />
-<br />
+ **<h3 align="left">Support Me</h3>**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
-
-<br />
-<br />
-
-### • Computer information:<br>
-OS: **Windows 10**<br>
-Graphic card: **NVIDIA RTX 3070 Ti (12 GB)**<br>
-Memory: **32 GB**<br>
-Disk: **Samsung SSD 980 500GB**<br>
-CPU: **Intel(R) Core(TM) i9-10900 @ 2.80GHz**<br>
-
-### • Server information:<br>
-OS: **Linux Debian 10**<br>
-Processor: **6 Cores**<br>
-Memory: **24 GB**<br>
-Disk: **600 GB SSD (RAID10)**<br>
-
-OS: **Windows Server 2019**<br>
-Processor: **8 Cores**<br>
-Memory: **24 GB**<br>
-Disk: **240 GB SSD (NAS)**<br>
-
-### • Socials:<br>
-<a href="https://www.instagram.com/codesk.studio/">
-  <img src="https://img.shields.io/badge/Instagram-100000?logo=instagram&style=social">
-</a>
-<a href="https://discord.com/users/273111910231310337">
-    <img src="https://img.shields.io/badge/Discord-100000?logo=discord&style=social">
-</a>
-
-<!-- <br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeskStudio&theme=blue-green">
-<br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeskStudio&theme=blue-green">
- -->
-
-
-
+<p align="left"><a href="https://buymeacoffee.com/codeskstudio" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
