@@ -1,4 +1,4 @@
-![👋Welcome!](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![👋Welcome!](https://cdn.cosk.io/img/codesk/code_brand_show.svg) 
 
 ![Profile views](https://komarev.com/ghpvc/?username=CodeskStudio&label=Profile%20views&color=0e75b6&style=flat)
 
