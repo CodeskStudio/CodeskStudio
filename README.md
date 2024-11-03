@@ -15,7 +15,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/CodeskStudio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://www.instagram.com/codesk.studio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" style="margin-right: 4px"></a></p>
 
- <h3 align="center">I’m a versatile web developer with a strong focus on both frontend and backend technologies. My expertise spans frameworks and languages like React, Svelte, Vue, Java, and Python, and I enjoy diving into new challenges in web development. Beyond web apps, I explore game modding, create Discord bots, and fine-tune tools like VS Code, NeoVim and various OS settings for a seamless coding experience.</h3>
+ <div align="center">I’m a versatile web developer with a strong focus on both frontend and backend technologies. My expertise spans frameworks and languages like React, Svelte, Vue, Java, and Python, and I enjoy diving into new challenges in web development. Beyond web apps, I explore game modding, create Discord bots, and fine-tune tools like VS Code, NeoVim and various OS settings for a seamless coding experience.</div>
 
  **<h3 align="center">Skills</h3>**
 
